@@ -7,7 +7,7 @@ Datasets used:
 [Freesound](https://freesound.org)
 
 Models used:
-[NISQA](https://github.com/gabrielmittag/NISQA)
+[VISQOL]([https://github.com/gabrielmittag/NISQA](https://github.com/google/visqol))
 [PESQ](https://github.com/ludlows/PESQ)
 
 Augmentations:
