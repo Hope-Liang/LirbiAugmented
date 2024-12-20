@@ -1,4 +1,4 @@
-"""Dataset loader for LibriSpeech."""
+"""Dataset loader for LibriAugmented."""
 
 import functools
 import os
